@@ -1,4 +1,7 @@
 # Among-Us-No-Clip-Trainer
+
+![alt text](https://threepixelslab.gr/wp-content/uploads/2020/10/amongus.jpg)
+
 simple trainer for Among US lets you noclip
 
 Click the .exe file
